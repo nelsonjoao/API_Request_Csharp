@@ -12,14 +12,16 @@ namespace ExercicioConsole
     {
         static async Task Main(string[] args)
         {
-            string caminho;
+            
+            string caminho;                 //Declaração de Variáveis
             List<string> usuarios;
 
-            Console.WriteLine("Insira o caminho do arquivo");
+            
+            Console.WriteLine("Insira o caminho do arquivo");       //Leitura de parâmetros
             caminho = Console.ReadLine();
 
             Console.WriteLine("\nUsuários");
-            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("--------------------------------------");    //Processamento do arquivo e listagem de usuários
             usuarios = new List<string>();
 
             try
@@ -40,7 +42,7 @@ namespace ExercicioConsole
             }
 
             Console.WriteLine("\nRequisitando dados da API...");
-            Console.WriteLine("------------------------------------------");
+            Console.WriteLine("------------------------------------------");        //Requisição da api e registro de logs
 
             foreach (var item in usuarios)
             {
