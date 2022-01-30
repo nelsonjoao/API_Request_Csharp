@@ -1,0 +1,6 @@
+C:\Users\Altino Johns\source\repos\ExercicioConsole\bin\Debug\ExercicioConsole.exe.config
+C:\Users\Altino Johns\source\repos\ExercicioConsole\bin\Debug\ExercicioConsole.exe
+C:\Users\Altino Johns\source\repos\ExercicioConsole\bin\Debug\ExercicioConsole.pdb
+C:\Users\Altino Johns\source\repos\ExercicioConsole\obj\Debug\ExercicioConsole.csprojAssemblyReference.cache
+C:\Users\Altino Johns\source\repos\ExercicioConsole\obj\Debug\ExercicioConsole.exe
+C:\Users\Altino Johns\source\repos\ExercicioConsole\obj\Debug\ExercicioConsole.pdb
